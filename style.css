@@ -1,0 +1,48 @@
+body {
+  background: #f3f9f1;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  color: #2a9d8f;
+}
+
+.form input, .form select {
+  margin: 8px;
+  padding: 8px;
+  width: 180px;
+}
+
+button {
+  background: #2a9d8f;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1em;
+  margin-top: 15px;
+}
+
+li {
+  background: #ffffffcc;
+  margin: 5px auto;
+  width: 60%;
+  padding: 8px;
+  border-radius: 6px;
+  box-shadow: 0 0 4px #ccc;
+}
+
+canvas {
+  margin-top: 20px;
+}
+canvas {
+  margin-top: 20px;
+}
