@@ -8,6 +8,7 @@ A simple interactive web app that helps users calculate their daily calorie need
 - Adjusts based on gender, activity, and goal (lose/maintain/gain)  
 - Suggests suitable meals automatically  
 - Displays macronutrient distribution (carbs, protein, fats)
+- Fully responsive and simple design 
 
 ## 💻 Tech Stack
 - HTML  
