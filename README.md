@@ -72,4 +72,15 @@ These reports help users analyze patterns such as:
 
 ## 💚 Author 
 Developed by ** baraa lamri ** _nutrition student.
+## 🍎 The Role of Nutrition Tracking in Preventive Health
+Modern lifestyles often lead to poor eating habits and lack of awareness about calorie balance.  
+By tracking daily nutrition, individuals can:
+- Identify deficiencies or excesses in their diet.  
+- Maintain a healthy weight through better portion control.  
+- Prevent diseases linked to poor nutrition, such as diabetes, hypertension, and cardiovascular issues. The **Healthy Day Nutrition Tracker** provides an accessible tool to support this goal, turning nutritional science into practical daily habits.
 
+---
+## 💻 Technology and Nutrition Education
+Technology has become a key ally in promoting nutrition awareness.  
+Web-based applications like our project make learning about calories, macronutrients, and food balance more interactive and easier to understand.  
+This encourages users—especially students—to engage with health education in a modern and dynamic way.
