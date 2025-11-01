@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HealthyDay 🥗</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🌿 HealthyDay – Daily Nutrition Tracker</h1>
+  <p>Enter your details to calculate your daily calorie needs</p>
+
+  <div class="form">
+    <input type="number" id="weight" placeholder="Weight (kg)">
+    <input type="number" id="height" placeholder="Height (cm)">
+    <input type="number" id="age" placeholder="Age">
+    
+    <select id="gender">
+      <option value="female">Female</option>
+      <option value="male">Male</option>
+    </select>
+    
+    <select id="activity">
+      <option value="low">Low activity</option>
+      <option value="medium">Medium activity</option>
+      <option value="high">High activity</option>
+    </select>
+
+    <select id="goal">
+      <option value="loss">Lose weight 🥗</option>
+      <option value="maintain">Maintain weight ⚖️</option>
+      <option value="gain">Gain weight 💪</option>
+    </select>
+
+    <button onclick="calculateCalories()">Calculate 🔢</button>
+  </div>
+
+  <h2 id="result"></h2>
+
+  <canvas id="nutritionChart" width="300" height="300"></canvas>
+
+  <footer>Made with 💚 by Jiji Re</footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
