@@ -20,7 +20,8 @@ A simple interactive web app that helps users calculate their daily calorie need
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
 3. Enter your details and view your results instantly.
-
+4. Choose your activity level and goal.  
+5. See your daily calories, meals, and nutrition chart!
 ---
 
 ## 🚀 Future Improvements
