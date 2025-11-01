@@ -20,6 +20,15 @@ A simple interactive web app that helps users calculate their daily calorie need
 2. Open `index.html` in your browser.
 3. Enter your details and view your results instantly.
 
+---
+
+## 🚀 Future Improvements
+💡 Add:
+- User login and profile  
+- Database for saving daily meals  
+- Macronutrient calculator by food type  
+- Integration with a mobile app
+
 ## 🧠 Educational Purpose
 Created as a university nutrition project to demonstrate the relationship between daily calorie needs and food balance.
 
