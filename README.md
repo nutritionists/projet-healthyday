@@ -10,6 +10,24 @@ A simple interactive web app that helps users calculate their daily calorie need
 - Displays macronutrient distribution (carbs, protein, fats)
 - Fully responsive and simple design 
 
+---
+
+## ⚙️ Objectives
+- Promote healthy nutrition habits through technology  
+- Provide an easy-to-use interface for diet and hydration tracking  
+- Encourage user motivation with daily health tips  
+- Strengthen teamwork and collaboration skills using GitHub  
+
+---
+
+## 🧩 Project Structure
+| File | Description |
+|------|--------------|
+| `index.html` | Main web page structure |
+| `style.css` | Styles and colors for layout |
+| `script.js` | Logic for BMI calculation, daily tips, and interactions |
+| `README.md` | Documentation and project overview |
+
 ## 💻 Tech Stack
 - HTML  
 - CSS  
@@ -23,6 +41,14 @@ A simple interactive web app that helps users calculate their daily calorie need
 4. Choose your activity level and goal.  
 5. See your daily calories, meals, and nutrition chart!
 ---
+## 👩‍💻 Collaborators
+| Name | Role |
+|------|------|
+| **djihad rezgui** | Project Leader / Developer |
+| **baraa almri** | Frontend Design |
+| **zerfa nihad** | Data / Nutrition Research |
+| **haddef ranai** | Documentation & Testing |
+
 
 ## 🚀 Future Improvements
 💡 Add:
@@ -30,6 +56,13 @@ A simple interactive web app that helps users calculate their daily calorie need
 - Database for saving daily meals  
 - Macronutrient calculator by food type  
 - Integration with a mobile app
+
+## 📊 GitHub Project Dashboard
+An **interactive GitHub Project Board** was created to manage and track our progress.  
+We used the **Kanban system** with columns:
+- 🟡 *To Do* — tasks to start  
+- 🔵 *In Progress* — tasks being worked on  
+- 🟢 *Done* — completed features  
 
 ## 🧠 Educational Purpose
 Created as a university nutrition project to demonstrate the relationship between daily calorie needs and food balance.
