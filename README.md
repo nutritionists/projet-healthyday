@@ -1,4 +1,4 @@
-## projet-healthyday
+9## projet-healthyday
 # 🥗 HealthyDay – Nutrition Tracker
 
 A simple interactive web app that helps users calculate their daily calorie needs, suggests healthy meals, and displays a nutrition chart.
@@ -71,7 +71,8 @@ These reports help users analyze patterns such as:
 -Low vitamin or fiber consumptioThis analysis helps improve dietary behavior and supports users in maintaining a healthy lifestyle.
 
 ## 💚 Author 
-Developed by baraa lamri _nutrition student.
+* developed by **Baraa Lamri* – Nutrition student. 
+
 ## 🍎 The Role of Nutrition Tracking in Preventive Health
 Modern lifestyles often lead to poor eating habits and lack of awareness about calorie balance.  
 By tracking daily nutrition, individuals can:
