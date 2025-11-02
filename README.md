@@ -85,3 +85,25 @@ By tracking daily nutrition, individuals can:
 Technology has become a key ally in promoting nutrition awareness.  
 Web-based applications like our project make learning about calories, macronutrients, and food balance more interactive and easier to understand.  
 This encourages users—especially students—to engage with health education in a modern and dynamic way.
+
+
+## 🌱 Conclusion
+The **Healthy Day Nutrition Tracker** embodies the spirit of *World Health Day* by combining science, collaboration, and technology to promote better nutrition.  
+It highlights the importance of monitoring food intake and making balanced choices every day.  
+Through teamwork and the open-source platform, we learned the value of collaboration and digital health innovation.
+
+> "A healthy life begins with awareness, and awareness begins with knowledge."
+
+---
+## 📚 References
+1. World Health Organization (WHO) – *World Health Day 2025: My Health, My Right*  
+   [https://www.who.int/campaigns/world-health-day](https://www.who.int/campaigns/world-health-day)
+2. Mifflin, M.D., St Jeor, S.T. et al. (1990). *A new predictive equation for resting energy expenditure in healthy individuals.*  
+   American Journal of Clinical Nutrition, 51(2), 241–247.
+3. Harvard T.H. Chan School of Public Health – *The Nutrition Source: Healthy Eating Plate & Pyramid*  
+   [https://www.hsph.harvard.edu/nutritionsource/](https://www.hsph.harvard.edu/nutritionsource/)
+4. Centers for Disease Control and Prevention (CDC) – *Healthy Living & Nutrition*  
+   [https://www.cdc.gov/healthyweight/index.html](https://www.cdc.gov/healthyweight/index.html)
+   💚Author
+   developed by **nihad zerfa**_student nutrition.
+   
