@@ -85,3 +85,4 @@ By tracking daily nutrition, individuals can:
 Technology has become a key ally in promoting nutrition awareness.  
 Web-based applications like our project make learning about calories, macronutrients, and food balance more interactive and easier to understand.  
 This encourages users—especially students—to engage with health education in a modern and dynamic way.
+
