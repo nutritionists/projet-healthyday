@@ -71,7 +71,7 @@ These reports help users analyze patterns such as:
 -Low vitamin or fiber consumptioThis analysis helps improve dietary behavior and supports users in maintaining a healthy lifestyle.
 
 ## 💚 Author 
-Developed by ** baraa lamri ** _nutrition student.
+Developed by **baraa lamri ** _nutrition student.
 ## 🍎 The Role of Nutrition Tracking in Preventive Health
 Modern lifestyles often lead to poor eating habits and lack of awareness about calorie balance.  
 By tracking daily nutrition, individuals can:
