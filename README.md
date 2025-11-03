@@ -117,7 +117,16 @@ By tracking daily nutrition, individuals can:
 ## 💻 Technology and Nutrition Education
 Technology has become a key ally in promoting nutrition awareness.  
 Web-based applications like our project make learning about calories, macronutrients, and food balance more interactive and easier to understand.  
-This encourages users—especially students—to engage with health education in a modern and dynamic  Devleoped by  **haddef rania achouak**_Nutrition student
+This encourages users—especially students—to engage with health education in a modern and dynamic
+   
+
+💚 Author
+
+
+• Devleoped by  **haddef rania achouak**_Nutrition student
+
+
+
 ## 🌱 Conclusion
 The **Healthy Day Nutrition Tracker** embodies the spirit of *World Health Day* by combining science, collaboration, and technology to promote better nutrition.  
 It highlights the importance of monitoring food intake and making balanced choices every day.  
@@ -135,5 +144,7 @@ Through teamwork and the open-source platform, we learned the value of collabora
    [https://www.hsph.harvard.edu/nutritionsource/](https://www.hsph.harvard.edu/nutritionsource/)
 4. Centers for Disease Control and Prevention (CDC) – *Healthy Living & Nutrition*  
    [https://www.cdc.gov/healthyweight/index.html](https://www.cdc.gov/healthyweight/index.html)
+
    💚Author
-   developed by **nihad zerfa **_student nutrition
+
+   •developed by **nihad zerfa **_student nutrition
